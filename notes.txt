@@ -1,0 +1,16 @@
+/* rule1 : dont copy the dimensions which has units . since ur screen dimensions arwe diff 
+try to figure out by ur own  */
+
+/* rule 2 : u can get font styles colors , text weights etc */
+
+/*fpr yellow color section 
+
+we have 1 flexboc which has 2 childrens  one has all para and all and another has photo
+
+*/
+
+/*the footer part has also 2 flexbox . one can be created as a list another u can create sperately
+
+ofc u can do all this using flex display*/
+
+
